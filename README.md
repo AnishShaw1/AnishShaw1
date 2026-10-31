@@ -1,34 +1,117 @@
-<h1 align="center">Hi 👋, I'm Anish Shaw</h1>
-<h3 align="center">AI Engineer | Generative AI | Agentic AI | Python Developer.</h3>
+<div align="center">Hi, I'm Anish Shaw 👋
+Gen AI Engineer · AI/ML Engineer · Full-Stack Developer
+Building intelligent applications, agentic workflows, and reliable backend systems.
+<p>
+  <a href="https://www.linkedin.com/in/anish-shaw-2206b8220/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:sanjayankitanish2013@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/AnishShaw1">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=AnishShaw1&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAnishShaw1&query=%24.public_repos&label=PUBLIC%20REPOS&color=181717&logo=github&style=for-the-badge" alt="Public repositories"/>
+  <img src="https://img.shields.io/github/followers/AnishShaw1?style=for-the-badge&logo=github&label=FOLLOWERS" alt="GitHub followers"/>
+</p></div>👨‍💻 About Me
+I'm a Gen AI Engineer at Tata Consultancy Services (TCS), focused on building AI-powered solutions and full-stack applications. I enjoy turning practical problems into useful software — from LLM-powered assistants and Retrieval-Augmented Generation (RAG) systems to backend APIs and interactive web applications.
+- 🤖 Current role: Gen AI Engineer at Tata Consultancy Services
+- 🧠 AI focus: Generative AI, LLM applications, RAG, AI agents, LangChain and LangGraph
+- ⚙️ Backend: Python, FastAPI, REST APIs and application integration
+- 🌐 Development: Streamlit, Flask, HTML, CSS and JavaScript
+- 📊 ML foundations: Scikit-learn, Pandas, NumPy and data visualization
+- 🎓 Education: B.Tech in Electronics & Communication Engineering (VLSI Design), MCKV Institute of Engineering — CGPA: 8.86/10
+- 🏏 Beyond code: Cricket enthusiast
+I’m interested in engineering AI systems that are not only impressive in a demo, but also useful, maintainable and dependable in real-world workflows.
+🧰 Tech Stack
+Generative AI & Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/Generative%20AI-7B2CBF?style=flat-square" alt="Generative AI"/>
+  <img src="https://img.shields.io/badge/LLMs-5A189A?style=flat-square" alt="LLMs"/>
+  <img src="https://img.shields.io/badge/RAG-6A4C93?style=flat-square" alt="RAG"/>
+  <img src="https://img.shields.io/badge/AI%20Agents-7209B7?style=flat-square" alt="AI Agents"/>
+  <img src="https://img.shields.io/badge/LangChain-1C7C54?style=flat-square" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LangGraph-246B5B?style=flat-square" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/FAISS-3B5998?style=flat-square" alt="FAISS"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+</p>Languages & Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,fastapi,flask" alt="Languages and backend technologies"/>
+</p>Data, Storage & Developer Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,docker,git,github,postman,vscode" alt="Data and developer tools"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright"/>
+</p>💼 Experience
+Organization	Role	Highlights
+Tata Consultancy Services (TCS)	Gen AI Engineer · Current	Working in the Generative AI engineering domain.
+Ardent Computech Pvt. Ltd.	Data Science Intern · Jul 2024 – Aug 2024	Developed a K-means customer segmentation solution using Python, Pandas, NumPy and Scikit-learn, with data visualizations.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AnishShaw1&label=Profile%20views&color=0e75b6&style=flat" alt="anishshaw1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anishshaw1" alt="anishshaw1" /></a> </p>
+🚀 Featured Projects
+A selection of projects spanning Generative AI, RAG, machine learning and application development.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚆 <a href="https://github.com/AnishShaw1/RailGaaadi">RailGaadi</a></h3>
+      <p>A railway information application focused on making train information and journey updates easier to access.</p>
+      <p><strong>Focus:</strong> Full-stack development · API integration · Data-driven UI</p>
+      <p><a href="https://github.com/AnishShaw1/RailGaaadi">Source code ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💼 <a href="https://github.com/AnishShaw1/JOBYAARI-chatbot">JobYaari — AI Job Assistant</a></h3>
+      <p>An AI-powered job assistant combining web data ingestion, semantic retrieval and an LLM-driven conversational interface.</p>
+      <p><strong>Stack:</strong> Python · Streamlit · LangChain · FAISS · Hugging Face</p>
+      <p><a href="https://github.com/AnishShaw1/JOBYAARI-chatbot">Source code ↗</a> · <a href="https://huggingface.co/spaces/AnishShaw/ai-JOBYAARI">Live demo ↗</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🩺 <a href="https://github.com/AnishShaw1/Ai-Medical-Chatbot">MediBot — AI Medical Assistant</a></h3>
+      <p>A Retrieval-Augmented Generation (RAG) assistant that retrieves information from a medical-document knowledge base to support contextual responses.</p>
+      <p><strong>Stack:</strong> Python · Streamlit · LangChain · FAISS · Sentence Transformers · Mistral</p>
+      <p><a href="https://github.com/AnishShaw1/Ai-Medical-Chatbot">Source code ↗</a> · <a href="https://huggingface.co/spaces/AnishShaw/ai-chat/">Live demo ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 <a href="https://github.com/AnishShaw1/customer-streamlit">MarketMind — Customer Segmentation</a></h3>
+      <p>An interactive ML application for customer segmentation, exploratory analysis and business-oriented recommendations.</p>
+      <p><strong>Stack:</strong> Python · Scikit-learn · Pandas · NumPy · Streamlit · Plotly</p>
+      <p><strong>Reported evaluation:</strong> Davies–Bouldin Index 0.9 · Silhouette Score 0.3382</p>
+      <p><a href="https://github.com/AnishShaw1/customer-streamlit">Source code ↗</a> · <a href="https://customersegmentation-stream.streamlit.app/">Live demo ↗</a></p>
+    </td>
+  </tr>
+</table>More projects: Explore my GitHub repositories for additional experiments and development work.
 
-- 🔭 I’m currently working on [RailYaatri](https://github.com/AnishShaw1/RailGaaadi)
-
-- 🌱 I’m currently learning **Agentic AI , LLMops , LLMevals**
-
-- 👯 I’m looking to collaborate on [Langgraph](https://github.com/AnishShaw1/langgraph-projects)
-
-- 🤝 I’m looking for help with [Langgraph](https://github.com/AnishShaw1/langgraph-projects)
-
-- 💬 Ask me about **GEN AI, Full Stack Dev**
-
-- 📫 How to reach me **sanjayankitanish2013@gmail.com**
-
-- ⚡ Fun fact **I am a Cricketer**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anish shaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anish shaw" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nativescript.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuepress.vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnishShaw1&show_icons=true&locale=en&layout=compact" alt="anishshaw1" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnishShaw1&show_icons=true&locale=en" alt="anishshaw1" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnishShaw1&" alt="anishshaw1" /></p>
+📊 GitHub Analytics
+<div align="center"><a href="https://github.com/AnishShaw1">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AnishShaw1&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="Anish's GitHub statistics"/>
+</a>
+<a href="https://github.com/AnishShaw1">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnishShaw1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+</a><a href="https://github.com/AnishShaw1">
+  <img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=AnishShaw1&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+</a><a href="https://github.com/AnishShaw1">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AnishShaw1&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph"/>
+</a></div>🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AnishShaw1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="GitHub profile trophies"/>
+</div>🤝 Let's Connect
+I'm always interested in connecting with developers, AI engineers and people building useful technology.
+<p align="center">
+  <a href="https://www.linkedin.com/in/anish-shaw-2206b8220/">
+    <img src="https://img.shields.io/badge/LinkedIn-Anish%20Shaw-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:sanjayankitanish2013@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Let's%20talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/AnishShaw1">
+    <img src="https://img.shields.io/badge/GitHub-AnishShaw1-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p><div align="center">
+Thanks for visiting my profile!
+Building, learning, and exploring what's possible with AI.
+</div>
